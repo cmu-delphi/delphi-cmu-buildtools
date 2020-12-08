@@ -2,7 +2,7 @@
     "name": "delphi-cmu-buildtools",
     "description": "build tool helpers for CMU deployments",
     "authors": "Samuel Gratzl",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "license": "MIT",
     "main": "src/index.js",
     "types": "src/index.d.ts",
