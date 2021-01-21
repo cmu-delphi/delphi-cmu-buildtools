@@ -13,7 +13,9 @@ function ensureDir(fileName) {
         return;
     }
     if (!fs.existsSync(dir)) {
-        fs.mkdirSync(dir);
+        fs.mkdirSync(dir, {
+            recursive: true
+        });
     };
     checkedDir.add(dir);
 }
