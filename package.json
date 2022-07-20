@@ -9,6 +9,6 @@
     "dependencies": {
         "coffeescript": "^2.5.1",
         "glob": "^7.1.6",
-        "terser": "^5.5.1"
+        "terser": "^5.14.2"
     }
 }
